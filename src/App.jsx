@@ -73,7 +73,7 @@ function App() {
   const Loader = () => {
     return (
       <div>
-        <h1>Cargando</h1>
+        <h1>Cargando NIA MIAU</h1>
         <h3>Spinner</h3>
       </div>
     );
